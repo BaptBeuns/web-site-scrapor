@@ -1,6 +1,6 @@
 # Installation
 ```
-git clone git@github.com:Reminiz/web-site-scrapor.git
+git clone git@github.com:baptbeuns/web-site-scrapor.git
 cd web-site-scrapor
 sudo apt-get install python3-lxml
 pip install -r requirements.txt
